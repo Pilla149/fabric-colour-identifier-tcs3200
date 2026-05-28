@@ -100,11 +100,11 @@ This approach improves scalability and enables support for a larger number of fa
 
 ### Sensor Mount Arrangement
 
-![Mount](setup/sensor-mount.jpg)
+![Mount](setup/sensor-mount.jpeg)
 
 ### LED Illumination Testing
 
-![LED](setup/led-illumination.jpg)
+![LED](setup/led-illumination.jpeg)
 
 ---
 
