@@ -92,7 +92,7 @@ This approach improves scalability and enables support for a larger number of fa
 
 ### Complete Hardware Setup
 
-![Setup](setup/setup.jpg)
+![Setup](setup/setup.png)
 
 ### TCS3200 Sensor Close-up
 
